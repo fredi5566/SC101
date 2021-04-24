@@ -13,5 +13,5 @@ Watch my *[DEMO VIDEO!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 
 #### Nested List:
 1. First list item
-    _ First nested line items
-      _ Second nested line items
+    - First nested line items
+      - Second nested line items
